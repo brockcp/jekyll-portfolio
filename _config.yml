@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Front-end Web Developer</h1>
-     <p>I develop in Javascript, AngularJS, Sass, etc...</p>
+     <p>I develop in Javascript, jQuery, AngularJS, CSS3, and HTML5</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
