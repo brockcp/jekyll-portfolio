@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami/" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
 url: "" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Brock Patterson
+  title: Brockcp
   description: "My Github residence" # used by search engines
 
   # Header and footer text
