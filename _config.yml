@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Brock Patterson
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "My Github residence" # used by search engines
 
   # Header and footer text
   header_text: >
