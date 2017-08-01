@@ -1,20 +1,20 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "/me/" # the subpath of your site, e.g. /blog/ (optional)
 url: "" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Brockcp
+  title: Brock Patterson
   description: "My Github residence" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Front-end Web Developer</h1>
-     <p>I develop in Javascript, jQuery, AngularJS, CSS3, and HTML5</p>
+     <p>I develop in AngularJS, jQuery, HTML5 & CSS3</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>
 
   # Icons
   rss: false
